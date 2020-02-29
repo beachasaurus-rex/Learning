@@ -1,0 +1,16 @@
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\bin\Debug\LearningWPF.exe.config
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\bin\Debug\LearningWPF.exe
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\bin\Debug\LearningWPF.pdb
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\App.g.cs
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\LearningWPF_MarkupCompile.cache
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\LearningWPF_MarkupCompile.lref
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\LearningWPF.g.resources
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\LearningWPF.Properties.Resources.resources
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\LearningWPF.csproj.GenerateResource.cache
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\LearningWPF.csproj.CoreCompileInputs.cache
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\LearningWPF.exe
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\LearningWPF.pdb
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\Views\MainWindow.g.cs
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\Views\MainWindow.baml
+D:\My_Data\GithubRepos\LearningWPF\LearningWPF\obj\Debug\Views\ViewResources\MainWindowResources.baml
